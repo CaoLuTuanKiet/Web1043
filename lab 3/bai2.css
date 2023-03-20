@@ -7,14 +7,6 @@
     flex-direction: column;
     justify-content: space-between;
 }
-.title{
-    text-align: center;
-    font-size: 2em;
-    padding: 5px;
-    font-weight: bold;
-    background-color: rgb(132, 228, 235);
-    color: red;
-}
 .results{
     display: flex;
     justify-content: stretch;
