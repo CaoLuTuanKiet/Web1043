@@ -1,0 +1,17 @@
+.container{
+    width: 480px;
+    height: 320px;
+    text-align: center;
+    
+    }
+.container div{
+  width: 480px;
+  background-color: pink;
+  height:320;
+}
+.container h1{
+    background-color: white;
+}
+.title{
+    color: orangered;
+}
